@@ -25,3 +25,15 @@ management:
     web:
       exposure:
         include: '*' 
+
+
+app:
+ message:
+   planNotFound       : "PlanDetails NOT Avaliable For this PlanId:"
+   planSavedSuccess   : "PlanDetails is Saved Successfully!"
+   planSavedFailed    : "PlanDetails is not Saved"
+   planUpdatedSuccess : "PlanDetails is Updated Successfully!"
+   planDeleteSuccess  : "PlanDetails Are Deleted Successfully"
+   planDeleteFailed   : "PlanDetails Not Deleted Something When Wrong"  
+   
+ 
