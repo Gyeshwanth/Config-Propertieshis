@@ -1,4 +1,3 @@
-
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/HIS
@@ -38,13 +37,14 @@ management:
 
 
 app:
- message:
+  message:
     successMessage: "Login successful!"
     failureMessage: "Invalid credentials. Please try again."
     mailSubject   : "HIS-Forget-Password"
     dashboardGreet: "Welcome to Dashboard "
-    unAuth        : "Unauthorized access";
+    unAuth        : "Unauthorized access"
     interanlServerError : "Internal Server Error"
     registerSuccess : "Citizen is Register Successfully."
     exstingCitizen  : "Citizen is Already with Register "
     mailSent       : "Mail Sent Successfully to "   
+ 
