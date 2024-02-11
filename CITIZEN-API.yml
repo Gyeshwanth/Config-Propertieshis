@@ -46,5 +46,6 @@ app:
     interanlServerError : "Internal Server Error"
     registerSuccess : "Citizen is Register Successfully."
     exstingCitizen  : "Citizen is Already with Register "
-    mailSent       : "Mail Sent Successfully to "   
+    mailSent       : "Mail Sent Successfully to "
+    logoutmessage  : "Logout Successfully"
  
