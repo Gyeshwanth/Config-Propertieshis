@@ -47,5 +47,5 @@ app:
     registerSuccess : "Citizen is Register Successfully."
     exstingCitizen  : "Citizen is Already with Register "
     mailSent       : "Mail Sent Successfully to "
-    logoutmessage  : "Logout Successfully"
- 
+    logoutMessage  : "Logout Successfully"
+    invalidEmailExcpt : "Login With Register Email"    
