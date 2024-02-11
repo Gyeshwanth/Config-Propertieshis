@@ -50,3 +50,4 @@ app:
     logoutMessage  : "Logout Successfully"
     invalidEmailExcpt : "Login With Register Email"  
     updatePwdMessage  : "Password is Updated"
+    invalidEmail : "Use Validate Email Forget"
