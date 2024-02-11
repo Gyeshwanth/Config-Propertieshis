@@ -1,0 +1,6 @@
+
+app:
+ message:
+    successmessage: "Login successful!"
+    failuremessage: "Invalid credentials. Please try again."
+    mailSubject   : "HIS-Forget-Password"
