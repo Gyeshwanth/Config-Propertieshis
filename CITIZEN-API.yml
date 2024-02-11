@@ -48,4 +48,5 @@ app:
     exstingCitizen  : "Citizen is Already with Register "
     mailSent       : "Mail Sent Successfully to "
     logoutMessage  : "Logout Successfully"
-    invalidEmailExcpt : "Login With Register Email"    
+    invalidEmailExcpt : "Login With Register Email"  
+    updatePwdMessage  : "Password is Updated"
