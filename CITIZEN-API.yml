@@ -4,3 +4,4 @@ app:
     successmessage: "Login successful!"
     failuremessage: "Invalid credentials. Please try again."
     mailSubject   : "HIS-Forget-Password"
+    dashboardGreet: "Welcome to Dashboard "
