@@ -51,3 +51,4 @@ app:
     invalidEmailExcpt : "Login With Register Email"  
     updatePwdMessage  : "Password is Updated"
     invalidEmail : "Use Validate Email Forget"
+    confirmPwd  : "Please Enter Same Password"
