@@ -18,7 +18,17 @@ spring:
       client:
         url: http://localhost:1010
   
-  
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: yeshu96183@gmail.com
+    password: ivry cvdt injy sqeh
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
         
 management:
   endpoints:
