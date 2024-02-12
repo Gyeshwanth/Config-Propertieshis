@@ -3,20 +3,13 @@ spring:
     admin:
       client:
         url: http://localhost:1010
-  
-  
-        
+
 management:
   endpoints:
     web:
       exposure:
         include: '*'
 
-
-
-
-
-
 app:
- message 
-    ssnwebapi : "http://localhost:1234/citizen-details"
+  message:
+    ssnwebapi: "http://localhost:1234/citizen-details"
