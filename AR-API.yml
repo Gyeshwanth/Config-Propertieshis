@@ -12,7 +12,7 @@ management:
 
 app:
   message:
-    ssnwebapi: "http://localhost:1234/citizen-details"
+    ssnwebapi: "http://13.233.152.39:1234/citizen-details"
     successmessage :  "Citizen is Successfully Register"
     failedmessage  :  "Citizen Not Belong to Rhode Island"
  
