@@ -19,4 +19,4 @@ management:
 
 app:
  message 
-  SSN-WEB-API : "http://localhost:1234/citizen-details"
+   SSN-WEB-API : "http://localhost:1234/citizen-details"
