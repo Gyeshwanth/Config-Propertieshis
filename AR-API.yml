@@ -1,3 +1,22 @@
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:1010
+  
+  
+        
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+
+
+
+
+
 app:
  message 
-   SSN-WEB-API : "http://localhost:1234/citizen-details"
+  SSN-WEB-API : "http://localhost:1234/citizen-details"
