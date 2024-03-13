@@ -53,17 +53,4 @@ app:
     usercredentialscode      : HIS0003
     
     
-    successMessage: "Login successful!"
-    failureMessage: "Invalid credentials. Please try again."
-    mailSubject   : "HIS-Forget-Password"
-    dashboardGreet: "Welcome to Dashboard "
-    unAuth        : "Unauthorized access"
-    interanlServerError : "Internal Server Error"
-    registerSuccess : "Citizen is Register Successfully."
-    exstingCitizen  : "Citizen is Already with Register "
-    mailSent       : "Mail Sent Successfully to "
-    logoutMessage  : "Logout Successfully"
-    invalidEmailExcpt : "Login With Register Email"  
-    updatePwdMessage  : "Password is Updated"
-    invalidEmail : "Use Validate Email Forget"
-    confirmPwd  : "Please Enter Same Password"
+   
