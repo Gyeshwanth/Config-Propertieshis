@@ -37,7 +37,7 @@ management:
 
 
 app:
-  message:
+  messages:
     
     usernotfound : User Details Not Found with
     mailsubject  : HIS Register Password
