@@ -1,1 +1,19 @@
 
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:1010
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+app:
+  messages:
+    missingheadermsg: "Missing Authorization Header"
+    tokenvalidmsg:  "Token is Expired"
+    tokeninvalidmsg:  "Token is InValid"
+ 
